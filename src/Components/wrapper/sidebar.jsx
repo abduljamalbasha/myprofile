@@ -78,7 +78,7 @@ export const SideBar = () => {
               src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg"
               alt="Workflow"
             /> */}
-          <a rel="home" href="/">
+          <a rel="home" href="/myprofile/">
             <div>
               <div className="content-center px-8 mt-10"><img className="" src="https://jacekjeznach.com/wp-content/themes/new/img/logo.png" alt="Jamal" /></div>
               <h1 className=" text-gray-300 px-4  text-3xl">Jamal</h1>

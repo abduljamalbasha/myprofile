@@ -123,7 +123,7 @@ export const Header = ( ) => {
                     alt="Workflow"
                   /> */}
                 {/* <h1 className="text-gray-300 text-3xl">React Concepts</h1> */}
-                <a rel="home" href="/">
+                <a rel="home" href="/myprofile/">
                  <div className="grid grid-flow-row auto-rows-max ">
                     <div className="content-center px-24 py-2"><img className="" src="https://jacekjeznach.com/wp-content/themes/new/img/logo.png" alt="Jamal" /></div>
                   <div><h1 className=" text-gray-300 px-20 text-3xl">Jamal</h1></div>
