@@ -16,7 +16,7 @@ const ProfileComponent = () => {
             </div>
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; h1 /&gt;</div>
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; p &gt;</div>
-              <p className="text-gray-400 ml-8 lg:text-3xl md:text-2xl sm:text-2xl sub-title">Full Stack Developer</p>
+              <p className="text-gray-400 ml-8 lg:text-3xl md:text-2xl sm:text-2xl sub-title">Full Stack Engineer</p>
             <div className="tag top-tags ml-4 text-gray-600 text-sm">&lt; p /&gt;</div>
             <button className="hover:text-black text-green-300 mt-3 px-10 py-2 md:px-10 md:py-2 sm:px-6 sm:py-1 border border-green-400 rounded hover:bg-green-300">Contact Me</button>
 
