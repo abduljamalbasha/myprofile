@@ -31,7 +31,7 @@ const formSubmit = (e) => {
               <div className="mx-auto lg:mx-0">
                  <div className="tag top-tags text-gray-600 text-sm">&lt; h2 &gt;</div>
                   <div className="lg:text-6xl md:text-4xl sm:text-4xl xs:text-2xl font-black ">
-                    <h1 className="text-green-500">Contact Me</h1>
+                    <h1 className="text-green-500 title-heading">Contact Me</h1>
                   </div>
                 <div className="tag top-tags mt-4 text-gray-600 text-sm">&lt; h2 /&gt;</div>  
                 <div className="tag top-tags mt-4 text-gray-600 text-sm">&lt; Form &gt;</div>

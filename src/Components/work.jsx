@@ -28,7 +28,7 @@ export default function WorkComponent () {
       
       <div className="tag top-tags ml-4 lg:mt-28 md:mt-4 sm:mt-4 text-gray-600 text-sm">&lt; h2 &gt;</div>
       <div className="ml-8 mt-4 lg:text-6xl md:text-4xl sm:text-4xl xs:text-2xl font-black ">
-        <h1 className="text-green-500">My Portfolio</h1>
+        <h1 className="text-green-500 title-heading">My Portfolio</h1>
       </div>
         <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; h2 /&gt;</div>  
       <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; p &gt;</div>
