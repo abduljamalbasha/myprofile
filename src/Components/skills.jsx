@@ -3,12 +3,6 @@ import ProgressBar from "./shared/progressBar";
 
 const MySkillsComponent = () => {
   return (
-
-
-
-
-
-
     <div className="mt-12 sm:mt-1">
       <div className="grid grid-cols-1 gap-y-12 sm:gap-x-6 lg:grid-cols-2 sm:grid-cols-2 xl:gap-x-8">
         {/* Skill left side */}
@@ -20,15 +14,11 @@ const MySkillsComponent = () => {
               <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; h2 /&gt;</div>  
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; p &gt;</div>
                 <p className="text-gray-300 px-10">
-              Since beginning my journey as a freelance developer nearly 10 years ago, I’ve done remote work for agencies, consulted for startups, and collaborated with talented people to create web products for both business and consumer use.
+              Since beginning my journey as a full stack developer nearly 8 years ago, I’ve done remote work for agencies, consulted for startups, and collaborated with talented people to create web products for both business and consumer use.
                 </p> 
             <br></br>
             <p className="text-gray-300 px-10">
-              I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is front-end development, HTML, CSS, JS, building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
-                </p>  
-            <br></br>
-            <p className="text-gray-300 px-10">
-              I also have full-stack developer experience with popular open-source CMS like (WordPress, Drupal, Magento, Keystone.js and others) .
+              I create successful responsive websites that are fast, easy to use, and built with best practices. The main area of my expertise is full-stack development, HTML, CSS, JS, ReactJS, Angular, NodeJS building small and medium web apps, custom plugins, features, animations, and coding interactive layouts.
                 </p>  
             <br></br>
             <p className="text-gray-300 px-10">

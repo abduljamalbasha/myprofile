@@ -3,12 +3,6 @@ import SliderComponent from "./shared/slider";
 
 const AboutComponent = () => {
   return (
-
-
-
-
-
-
     <div className="mt-12 sm:mt-1">
       <div className="grid grid-cols-1 gap-y-12 sm:gap-x-6 lg:grid-cols-2 sm:grid-cols-2 xl:gap-x-8">
         {/* Skill left side */}
@@ -20,7 +14,7 @@ const AboutComponent = () => {
               <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; h2 /&gt;</div>  
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; p &gt;</div>
                 <p className="text-gray-300 px-10">
-              I’m a Full-Stack Developer located in India. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
+              I’m a Full-Stack Developer located in India. I have a serious passion for web application Development, animations, responsive and creating intuitive, dynamic user experiences.
                 </p> 
             <br></br>
             <p className="text-gray-300 px-10">
@@ -42,14 +36,7 @@ const AboutComponent = () => {
            <SliderComponent isSkillSlide />
           </div>
         </div>
-
-
-       
       </div>
-
-
- 
-
     </div>
   )
 }

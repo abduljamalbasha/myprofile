@@ -12,7 +12,6 @@ const ProfileComponent = () => {
               <h1 className="main-title text-transparent bg-gradient-to-r bg-clip-text from-green-500 via-pink-500 to-pink-600">Hi,</h1>
               <h1 className="main-title text-transparent bg-gradient-to-r bg-clip-text from-green-500 via-pink-500 to-pink-600">I'm, Jamal</h1>
               <h1 className="main-title text-transparent bg-gradient-to-r bg-clip-text from-green-500 via-pink-500 to-pink-600">Web Developer</h1>
-
             </div>
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; h1 /&gt;</div>
             <div className="tag top-tags ml-4 mt-4 text-gray-600 text-sm">&lt; p &gt;</div>
